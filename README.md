@@ -1,4 +1,4 @@
-# Root-Android-
+# Root-Android
 system database program used root 
 Root Trust Anchor
 The Root Trust Anchor, or Key Signing Key, is used by DNSSEC-enabled software to verify the contents of the DNS root zone is valid. It additionally enables a single chain of trust to DNSSEC-enabled top-level domains and beyond.
@@ -15,6 +15,6 @@ Root Hints File (HTTP)
 Root Zone File
 The complete root zone is available for download at the following locations. Ordinarily there should be no need to download this file on a regular basis, as the contents of the file are served via the DNS system itself.
 
-Root Zone File (FTP)
-Root Zone File (HTTP)
+| Root Zone File (FTP)
+| Root Zone File (HTTP)
 [seen archive](https://www.iana.org/dnssec/archive/files/icann-dps-00.txt)
