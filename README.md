@@ -19,13 +19,12 @@ The complete root zone is available for download at the following locations. Ord
 | Root Zone File (HTTP)
 [seen archive](https://www.iana.org/dnssec/archive/files/icann-dps-00.txt)
 
-;       This file holds the information on root name servers needed to 
-;       initialize cache of Internet domain name servers
-;       (e.g. reference this file in the "cache  .  <file>"
-;       configuration file of BIND domain name servers). 
-; 
-;       This file is made available by InterNIC 
-;       under anonymous FTP as
+### This file holds the information on root name servers needed to 
+    initialize cache of Internet domain name servers
+    (e.g. reference this file in the "cache  .  <file>"
+    configuration file of BIND domain name servers). 
+;  ;This file is made available by InterNIC 
+;  under anonymous FTP as
 ;           file                /domain/named.cache 
 ;           on server           FTP.INTERNIC.NET
 ;       -OR-                    RS.INTERNIC.NET
